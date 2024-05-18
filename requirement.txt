@@ -1,0 +1,7 @@
+spacy
+pandas
+matplotlip
+nltk
+tenserflow
+transformer
+
